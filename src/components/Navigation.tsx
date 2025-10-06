@@ -27,7 +27,7 @@ const Navigation = () => {
               alt="Phoenix Logo" 
               className="w-10 h-10 object-contain"
             />
-            <h1 className="text-2xl font-display font-bold text-amber-950 bg-gradient-accent bg-clip-text text-transparent">
+            <h1 className="text-2xl font-display font-bold text-black bg-gradient-accent bg-clip-text text-transparent">
               PHOENIX
             </h1>
           </NavLink>
